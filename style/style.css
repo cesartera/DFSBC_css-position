@@ -1,0 +1,58 @@
+
+img{
+    width: 50px;
+    height: auto;
+}
+
+.nav-bar{
+    background-color: lightgrey;
+}
+
+.nav-buttons{
+    float: right;
+}
+
+
+
+
+/* 
+h1 {
+    color: rgba(255,0,0);
+    background-color: #000
+} */
+
+
+/* 
+div {
+    width: 500px;
+    height: 200px;
+    border: 3px solid darkgreen;
+    float: center;
+    margin: 0 40%;
+}
+
+.div1 {
+    background-color:yellow;
+    
+}
+
+.div2 {
+    background-color:red;
+ 
+}
+
+.div3 {
+    background-color:green;
+
+}
+
+.div4 {
+    background-color:blue;
+
+}
+
+img{ 
+    width: 100px;
+    height: auto;
+    float: right;
+} */
